@@ -1,4 +1,4 @@
-# CS 193 Homework 0 - GitHub and Your Own Website!
+# Changed CS 193 Homework 0 - GitHub and Your Own Website!
 
 ## What is this assignment
 
